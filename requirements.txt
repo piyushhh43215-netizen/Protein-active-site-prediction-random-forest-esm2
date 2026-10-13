@@ -1,0 +1,11 @@
+# Core notebook dependencies; versions may need adjustment for the Colab/runtime used.
+biopython
+pandas
+numpy
+scikit-learn
+torch
+transformers
+fair-esm
+matplotlib
+seaborn
+requests
